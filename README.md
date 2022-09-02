@@ -1,4 +1,8 @@
 # Trilha HTML - Dio.me
+
+## Repositório com a resolução do segundo desafio da formação HTML Web Developer - DIO
+Logo abaixo está descrito todos os requisitos solicitados para o desafio
+
 ## Módulo 02 - HTML I - Conceitos Básicos
 
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
