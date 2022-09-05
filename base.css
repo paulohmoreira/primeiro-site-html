@@ -65,12 +65,9 @@ a:visited {
     min-height: 150px;
 }
 
-.inline-block {
-    align-self: center;
-}
-
-.inline-block h1 {
+.titulo-logo {
     margin-left: 35px;
+    align-self: center;
 }
 
 .content {
@@ -182,7 +179,14 @@ textarea {
     font-size: 0.8em;
 }
 
-input[type="submit"]{
+.btn {
+    display: flex;
+    justify-content: center;
+  }
+
+input[type="submit"], input[type="reset"] {
+    width: 30%;
+    margin: 0 25px;
     background-color: #ccc;
     border: none;
     color: #fff;
