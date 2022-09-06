@@ -30,6 +30,8 @@ a:visited {
     list-style: none;
     width: 7%;
     position: fixed;
+    top: 20%;
+    margin-left: -12px;
 }
 
 .menu ul li {
